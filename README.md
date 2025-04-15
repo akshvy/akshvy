@@ -1,5 +1,5 @@
 <center>## hello im akshvy<br><br><p>
-I'm an electrical engineering student who like real world hardware <br>---<br>in free time. I like to rice linux and <br>play with handicapped kids (lmaooo).
+I'm an electrical engineering student who like real world hardware <br>---<br> In free time, I like to rice linux and <br>play with handicapped kids (lmaooo).
 </p><br>
   <footer>Thanks for visiting! 💻✨</footer><br>
   </center>
