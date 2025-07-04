@@ -36,8 +36,8 @@ My focus is on learning by doing — close to the hardware and code.
 ## Featured Repositories
 
 - [**Electronic Voting Machine**](https://github.com/akshvy/Electronic-Voting-Machine-EVM)  
-- [**Zone 13**](https://github.com/your-zone13-repo) *(Add the link if you have it)*
-- [**DevTools Cheat Sheet**](https://github.com/your-devtools-repo) *(Add the link if you have it)*
+- [**Zone 13**](https://github.com/akshvy/zone-13)
+- [**DevTools Cheat Sheet**](https://voidstack-dev.github.io/devtools-cheatsheet/) 
 
 ---
 
