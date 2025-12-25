@@ -45,8 +45,8 @@ My focus is on learning by doing — close to the hardware and code.
 ## Current Focus
 
 - Data Structures & Algorithms
-- Game development with Godot
-- Linux & shell scripting
+- Participating in multiple contest for experience 
+- 4th sem
 - Hardware/software integration
 
 ---
@@ -55,12 +55,6 @@ My focus is on learning by doing — close to the hardware and code.
 
 - **GitHub:** [github.com/akshvy](https://github.com/akshvy)
 - **Email:** [akshayroy217@gmail.com](mailto:akshayroy217@gmail.com)
-
----
-
-## GitHub Stats
-
-![Akshvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshvy&show_icons=true&theme=default)
 
 ---
 
