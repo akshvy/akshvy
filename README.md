@@ -45,8 +45,8 @@ My focus is on learning by doing — close to the hardware and code.
 ## Current Focus
 
 - Data Structures & Algorithms
-- Participating in multiple contest for experience 
-- 4th sem
+- Preparing for the campus placements
+- learning Java and its frameworks 
 - Hardware/software integration
 
 ---
